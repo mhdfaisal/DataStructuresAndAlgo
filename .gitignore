@@ -1,1 +1,1 @@
-inde.html
+index.html
